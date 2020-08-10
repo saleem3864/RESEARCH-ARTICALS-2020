@@ -1,5 +1,5 @@
 
-# Challenges in Chatbot Development: A Study of Stack Overflow Posts
+# Exploring the Security Awareness of the Python and JavaScript Open Source Communities
 ## AUTHORS/RESEARCHERS:
 1. [Gabor Anta](https://2020.msrconf.org/profile/gaborantal)
 2. [Peter Hegedus](https://2020.msrconf.org/profile/peterhegedus)
