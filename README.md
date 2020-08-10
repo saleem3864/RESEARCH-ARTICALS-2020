@@ -5,4 +5,4 @@ SOFTWARE ENGENERING ASSIGNMENT ABOUT RESEARCH PAPERS PUBLISHED IN DIFFERENT CONF
 ## Artical 2:
 [Challenges in Chatbot Development: A Study of Stack Overflow Posts](https://2020.msrconf.org/details/msr-2020-papers/33/Challenges-in-Chatbot-Development-A-Study-of-Stack-Overflow-Posts)
 ## Artical 3:
-[An Empirical Study of Method Chaining in Java](https://2020.msrconf.org/details/msr-2020-papers/2/An-Empirical-Study-of-Method-Chaining-in-Java)
+[Exploring the Security Awareness of the Python and JavaScript Open Source Communities](https://2020.msrconf.org/details/msr-2020-mining-challenge/3/Exploring-the-Security-Awareness-of-the-Python-and-JavaScript-Open-Source-Communities)
