@@ -17,6 +17,6 @@ To Provide Progrmmers an Virtural Reality facility for programming rather than s
 * Virtual Reality has more Task Load and Physically and Mentally demanding.
 * Programmers did not reported any difference in productivity in both systems.
 ## Personal Opinion:
-It will be a good deal for Programmer who want to make programming a fun, they will be more easy with it.
+It will be a good deal for Programmer who want to make programming a fun, they will be more easy with VR SYSTEM.
 
 
