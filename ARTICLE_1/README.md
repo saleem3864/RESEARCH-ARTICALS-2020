@@ -15,7 +15,7 @@
     * 59.41% of Updated Application got update in Launch Month.
   * 95% adopted New Version after 12 Months
   * 99.16 % adopted after 2 Years
-  <h6>TOTAL APPLICATIONS TESTESD: 2118</h6>
+  <b>TOTAL APPLICATIONS TESTESD: 2118</b>
   ## Personal Opinion:
    Android Applications are not because Not every device get update to latest android version. Mobile Phone Maufacturing Companies sent updates and security patches only for a time period of 1 to 2 years. Therefore latest android version based applications will cause compactibility issues on those devices, Where an Older Anroid version application can run on New Version of Android. Therefore it is good practice to develope application on older versions but it will definitly lack latest features.
 
