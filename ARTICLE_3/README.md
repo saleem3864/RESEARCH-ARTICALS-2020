@@ -6,6 +6,8 @@
 3. [Márton Keleti](https://2020.msrconf.org/profile/martonkeleti)
 ## LINK URL:
 [LINK](https://2020.msrconf.org/details/msr-2020-mining-challenge/3/Exploring-the-Security-Awareness-of-the-Python-and-JavaScript-Open-Source-Communities)
+## MOTIVE:
+This Article will be Help for developers in order to make their programs much safer and providing security updates ASAP. 
 ## FINDINGS:
 * Security threads are increasing as per analysis of security commits in open source projects.
 * As an average an security vulnerability commit is commited after every 100 days.
