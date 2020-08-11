@@ -9,7 +9,7 @@
 ## MOTIVE:
   This research article is Android applications reaguarding thier updates to latest Android Version and API level.
 ## FINDINGS:
-  <h6>TOTAL APPLICATIONS TESTESD: 2118</h6>
+  
   * 75.45% of Applications Were Developed in Android Lollipop (Version 5.0; API Level 21 (Lollipop released in <b>Oct. 2014</b>))
   * 5.46% of Applications were Updated to latest Version Android Q(Version 10 API level 29(Q released in <b>Sept. 2019</b>))
     * 59.41% of Updated Application got update in Launch Month.
