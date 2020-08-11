@@ -12,9 +12,10 @@
 * In Python Security Commit is commited after every 50 days and in JavaScript after 32.5 days.
 * Python Community is faster in responding to security threads than JavaScript.
 * Security vulnerabilities are increasing more in JavaScript Than Python
+
 * <b>Commits Tested: 6342</b>
-  * JavaScript: 3458
-  * Python: 2884
+  * <b>JavaScript: 3458</b>
+  * <b>Python: 2884</b>
 ## Personal Opinion:
 Security Risks in Every Language needs to be fixed ASAP and Increasing secuirity threads can effect programming field, especially web/cloud based applications are main target. therefore every Programmer needs to learn latest security techniques for present and future.
 
