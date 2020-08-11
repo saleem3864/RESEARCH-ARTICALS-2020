@@ -16,6 +16,6 @@
   * JavaScript: 3458
   * Python: 2884
 ## Personal Opinion:
-    Security Risks in Every Language needs to be fixed ASAP and Increasing secuirity threads can effect programming field, especially web/cloud based applications are main target. therefore every Programmer needs to learn latest security techniques for present and future.
+Security Risks in Every Language needs to be fixed ASAP and Increasing secuirity threads can effect programming field, especially web/cloud based applications are main target. therefore every Programmer needs to learn latest security techniques for present and future.
 
 
