@@ -7,7 +7,7 @@
 ## LINK URL:
 [LINK](https://2020.msrconf.org/details/msr-2020-mining-challenge/3/Exploring-the-Security-Awareness-of-the-Python-and-JavaScript-Open-Source-Communities)
 ## MOTIVE:
-This Article will be Help for developers in order to make their programs much safer and providing security updates ASAP. 
+This Article will be Help for developers in order to make their programs much safer and providing security updates ASAP By knowing type and other information about security threats.
 ## FINDINGS:
 * Security threads are increasing as per analysis of security commits in open source projects.
 * As an average an security vulnerability commit is commited after every 100 days.
@@ -19,6 +19,6 @@ This Article will be Help for developers in order to make their programs much sa
   * <b>JavaScript: 3458</b>
   * <b>Python: 2884</b>
 ## Personal Opinion:
-Security Risks in Every Language needs to be fixed ASAP and Increasing secuirity threads can effect programming field, especially web/cloud based applications are main target. therefore every Programmer needs to learn latest security techniques for present and future.
+Security Risks in Every Language needs to be fixed ASAP and Increasing security threats can effect programming field, especially web/cloud based applications are main target. therefore every Programmer needs to learn latest security techniques for present and future.
 
 
